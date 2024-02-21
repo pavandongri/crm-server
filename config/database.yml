@@ -1,0 +1,14 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  username: postgres
+  password: pavanpsql@1
+
+development:
+  <<: *default
+  database: crm_development
+
+production:
+  <<: *default
+  database: crm_production
