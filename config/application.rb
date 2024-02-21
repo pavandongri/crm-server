@@ -1,7 +1,11 @@
 require_relative 'boot'
 
 require "rails"
-# Pick the frameworks you want:
+
+Bundler.require(*Rails.groups)
+require 'dotenv/load'
+
+# Pick the frameworks you want:a
 require "active_model/railtie"
 require "active_job/railtie"
 require "active_record/railtie"
