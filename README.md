@@ -28,8 +28,8 @@ __________________________________________________________________________
 
 ## Frontend:
 
-git repo link: `https://github.com/pavandongri/crm-client`
+git repo link: https://github.com/pavandongri/crm-client
 
 Hosted on Vercel..  
 
-live url : `https://crm-client-sandy.vercel.app/`
+live url : https://crm-client-sandy.vercel.app/`
