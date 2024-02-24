@@ -1,12 +1,12 @@
-## This is backed repo for CRM app
+# This is backed repo for CRM app
 
 __________________________________________________________________________
 
-## Technology used: Ruby on Rails framework
+# Technology used: Ruby on Rails framework
 
 __________________________________________________________________________
 
-## Features:
+# Features:
 
 1) JWT based User Authentication using ruby gems (devise, devise-jwt)
 
@@ -21,6 +21,7 @@ __________________________________________________________________________
 6) Ensured data integrity, efficiency, optimal code
 
 __________________________________________________________________________
+# Backend
 
 Deployed on heroku
 
@@ -28,7 +29,7 @@ live url: https://crm-server-6c035b18c26a.herokuapp.com/
 
 __________________________________________________________________________
 
-## Frontend:
+# Frontend:
 
 git repo link: https://github.com/pavandongri/crm-client
 
