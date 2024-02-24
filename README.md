@@ -1,24 +1,35 @@
-# README
+Backed for CRM application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Technology used: Ruby on Rails framework
 
-Things you may want to cover:
+__________________________________________________________________________
 
-* Ruby version
+## Features:
 
-* System dependencies
+1) JWT based User Authentication using ruby gems (devise, devise-jwt)
 
-* Configuration
+2) Database: Postgresql
 
-* Database creation
+3) Ensured data integrity using Model level validations and Error Handling
 
-* Database initialization
+4) Used Active Records for model associations and validations
 
-* How to run the test suite
+5) Authenticated/Protected  api end points
 
-* Services (job queues, cache servers, search engines, etc.)
+6) Ensured data integrity, efficiency, optimal code
 
-* Deployment instructions
+__________________________________________________________________________
 
-* ...
+Deployed on heroku
+
+live url: https://crm-server-6c035b18c26a.herokuapp.com/
+
+__________________________________________________________________________
+
+## Frontend:
+
+git repo link: `https://github.com/pavandongri/crm-client`
+
+Hosted on Vercel..  
+
+live url : `https://crm-client-sandy.vercel.app/`
